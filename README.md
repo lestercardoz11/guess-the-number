@@ -1,4 +1,4 @@
-# guess-the-number
+# Guess the Number
 
 This basic project was done with regards to a course on Coursera, by University of Michigan.
 
